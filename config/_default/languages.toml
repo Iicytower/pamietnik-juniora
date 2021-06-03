@@ -1,0 +1,6 @@
+[pl]
+  title = "Pamiętnik Juniora"
+  languageName = "polski"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/pl"
