@@ -27,12 +27,12 @@ header:
     title:
       - Pamiętnik Juniora
     subtitle:
-      - Blog poświęcony juniorom oraz wszystkiemu w okolicy juniorów.
-    titleColor: 
+      - Blog poświęcony juniorom oraz szeroko pojętemu programowaniu.
+    titleColor: "#ddd"
     titleShadow: true
     titleFontSize: 44
-    subtitleColor: 
-    subtitleCursive: true
+    subtitleColor: "#ccc" 
+    subtitleCursive: false/98 
     subtitleFontSize: 18
     spaceBetweenTitleSubtitle: 16
   

@@ -10,7 +10,7 @@ categories:
 -
 author:
 authorEmoji: 🤖
-authorImage: "https://avatars.githubusercontent.com/u/37587581?v=4"
+authorImage: "/images/whoami/avatar.jpg"
 authorImageUrl: ""
 authorDesc: 
 socialOptions:
